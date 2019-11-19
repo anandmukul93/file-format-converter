@@ -1,5 +1,5 @@
 {
-  "name": "file-converter",
+  "name": "@anandmukul93/file-converter",
   "version": "0.0.1",
   "description": "file converter between different formats",
   "main": "index.js",
